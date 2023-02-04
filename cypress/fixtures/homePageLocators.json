@@ -1,0 +1,8 @@
+{
+  "HomePageTitle" : ".woocommerce-MyAccount-content > p:nth-of-type(1)",
+  "ShopMenuButton" : "#menu-item-40 > a",
+  "HomeMenuButton" : "#site-logo > a",
+  "Slider" : ".n2-ss-slide-background > .n2-ss-slide-background-image",
+  "NewArrival" : ".woocommerce-LoopProduct-link > .attachment-shop_catalog",
+  "HelloMessage": ".woocommerce-MyAccount-content > :nth-child(1)"
+}

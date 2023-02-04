@@ -1,0 +1,15 @@
+{
+  "name": "cypressautomationweb",
+  "version": "1.0.0",
+  "description": "Automation Testing on a full-featured e-commerce website simulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lu Oderiz",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}

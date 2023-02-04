@@ -1,0 +1,8 @@
+{
+  "DisplayMenuBars": "#menu-icon",
+  "MyAccountMenu": "#menu-item-50>a",
+  "UsernameTextbox": "#username",
+  "PasswordTextbox": "#password",
+  "LoginButton": ":nth-child(3) > .woocommerce-Button",
+  "ErrorMessage": ".woocommerce-error"
+}
